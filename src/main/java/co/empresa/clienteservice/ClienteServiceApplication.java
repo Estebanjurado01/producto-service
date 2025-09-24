@@ -1,13 +1,13 @@
-package co.empresa.productoservice;
+package co.empresa.clienteservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProductoServiceApplication {
+public class ClienteServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ProductoServiceApplication.class, args);
+        SpringApplication.run(ClienteServiceApplication.class, args);
     }
 
 }
