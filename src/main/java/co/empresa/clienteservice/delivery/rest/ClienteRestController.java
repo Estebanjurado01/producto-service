@@ -20,7 +20,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-@RequestMapping("/api/v1/clientes")
+@RequestMapping("/api/v1/cliente-service")
 public class ClienteRestController {
 
     // Declaramos como final el servicio para mejorar la inmutabilidad
